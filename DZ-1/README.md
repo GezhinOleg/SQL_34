@@ -17,7 +17,7 @@
 Выполните SQL-запрос к базе данных dvd-rental "SELECT * FROM country;"
 Ожидаемый результат запроса: https://ibb.co/NLjWX9y
 
-![Решение](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/%D0%94%D0%974_1.html)
+![Решение](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/country_202110151037.md)
 
 Дополнительная часть (необязательная):
 
