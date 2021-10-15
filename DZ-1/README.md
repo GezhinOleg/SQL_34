@@ -10,11 +10,13 @@
 
 ## Задание 3.
 Перечислите все таблицы базы данных dvd-rental и поля, которые являются первичными ключами для этих таблиц. Формат решения в виде таблицы: https://ibb.co/3rPxY4z
+
 ![Решение](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/%D0%94%D0%973_1.pdf)
 
 ## Задание 4.
 Выполните SQL-запрос к базе данных dvd-rental "SELECT * FROM country;"
 Ожидаемый результат запроса: https://ibb.co/NLjWX9y
+
 ![Решение](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/%D0%94%D0%974_1.html)
 
 Дополнительная часть (необязательная):
