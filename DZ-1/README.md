@@ -1,6 +1,6 @@
 ## Задание 1.
 
-[Создайте новое соединение в DBeaver и подключите облачную базу данных dvd-rental](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/%D0%94%D0%971_1%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.png)
+![Создайте новое соединение в DBeaver и подключите облачную базу данных dvd-rental](https://github.com/GezhinOleg/SQL_34/blob/main/DZ-1/%D0%94%D0%971_1%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5.png)
   
 ## Задание 2.
 Сформируйте ER-диаграмму таблиц базы данных dvd-rental
